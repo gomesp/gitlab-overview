@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Gitlab",
+    "packageVersion": "0.0.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "gomesp",
+    "githubRepository": "gitlab-overview"
+  }
+}
