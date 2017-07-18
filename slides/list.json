@@ -1,4 +1,9 @@
 [
     "index.md",
-    "agenda.md"
+    "agenda.md",
+    "groups-and-repositories.md",
+    "issue-management.md",
+    "git-flows.md",
+    "the-commit-history.md",
+    "gitlab-ci.md"
 ]
