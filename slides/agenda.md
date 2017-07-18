@@ -5,3 +5,4 @@
 * Git flows: branching vs. pull-requests, approvals
 * Keeping a clean commit history
 * Continuous Integration
+* Web Hooks
